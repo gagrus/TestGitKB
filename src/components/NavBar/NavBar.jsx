@@ -1,12 +1,10 @@
-import React from 'react'
-
 export default function NavBar() {
   return (
     <div>
       <ol>
-        <li>home</li>
-        <li>About</li>
-        <li>Player</li>
+        <ul>home</ul>
+        <ul>about</ul>
+        <ul>player</ul>
         <li>Games</li>
         <li>Stat</li>
       </ol>
